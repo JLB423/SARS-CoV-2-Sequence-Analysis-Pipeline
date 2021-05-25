@@ -2,7 +2,7 @@
 
 ANALYSIS PIPELINE:
 
-**Step 1:** Mapping the SNPS (mutations)
+**Step 1:** Mapping the SNP's (mutations)
 
 **Step 2:** Parsing the files to obtain the coding sequences for each gene and strain in the whole genome
 
